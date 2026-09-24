@@ -1,6 +1,10 @@
 # 项目管理规则（project-vault-rules）
 
+![logo](assets/logo.png)
+
 > 单人版项目管理规则开源版——从现实项目管理流程推演而来：**需求 → 规划 → 评审 → 执行 → 验证 → 复盘**，外加**决策 / 问题**两个贯穿夹。
+
+![architecture](assets/architecture.svg)
 
 ## 这是什么
 
