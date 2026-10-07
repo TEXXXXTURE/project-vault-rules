@@ -83,7 +83,7 @@ id: prd.workbench      # 唯一编号，见 §7
 name: AI Agent 工作台系统   # 文档标题
 status: active         # 文件级状态，见 §6
 updated: 2026-09-24    # 最近实质更新日期
-owner: A               # 负责人
+owner: A               # 负责人（私有总仓实际使用值，开源版为示例）
 origin: <原件路径/上游文档>  # 来源
 stage: 01             # 当前推进到的环节编号（00-99），承载"推进状态"
 ---
@@ -193,4 +193,4 @@ ADR 附加：`decided` / `supersedes` / `superseded-by`；ADR 的 `status` 用�
   1. 更新《交接文档.md》（现状 / 待拍板 / 下一步）与 `状态记录.md`；
   2. 该归类的记忆写回对应环节夹：关键决策 → `决策/ADR`；踩坑 → `问题/debug-log.md`；验证结果 → `05-验证记录/`；过程推演 → 各环节 `过程记录.md`（§14）；
   3. 索引「最近更新」列同步。
-- **模板与类型**：TEMPLATES 新增 `handoff-template.md`；frontmatter `type` 枚举新增 `handoff`（§5）。
+- **模板与类型**：templates/ 新增 `handoff-template.md`；frontmatter `type` 枚举新增 `handoff`（§5）。
