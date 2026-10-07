@@ -4,7 +4,7 @@ id: debug.<项目名>
 name: <项目名> · 问题日志
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <项目执行 / 验证阶段>
 stage: 00
 ---

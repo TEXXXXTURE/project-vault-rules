@@ -4,7 +4,7 @@ id: verify.<项目名>
 name: <项目名> · 验证记录
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <依据：PRD 验收标准 FR/NFR>
 stage: 05
 ---

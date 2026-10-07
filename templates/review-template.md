@@ -4,7 +4,7 @@ id: review.<项目名>.<主题>
 name: <项目名> · 评审意见
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 stage: 03
 ---
 

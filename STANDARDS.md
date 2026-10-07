@@ -4,7 +4,7 @@ id: standards.project-vault
 name: 项目管理总仓管理标准
 status: active
 updated: 2026-09-25
-owner: A
+owner: <项目负责人>
 origin: 单人版项目管理流程推演（现实步骤→多人版→单人版，2026-09-24 逐点确认定稿；2026-09-25 v2.1 增补过程记录与评审三段式）
 ---
 
@@ -83,7 +83,7 @@ id: prd.workbench      # 唯一编号，见 §7
 name: AI Agent 工作台系统   # 文档标题
 status: active         # 文件级状态，见 §6
 updated: 2026-09-24    # 最近实质更新日期
-owner: A               # 负责人（私有总仓实际使用值，开源版为示例）
+owner: <项目负责人>               # 负责人（占位示例，实际填项目负责人）
 origin: <原件路径/上游文档>  # 来源
 stage: 01             # 当前推进到的环节编号（00-99），承载"推进状态"
 ---

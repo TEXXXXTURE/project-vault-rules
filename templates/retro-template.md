@@ -4,7 +4,7 @@ id: retro.<项目名>
 name: <项目名> · 复盘
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <项目全过程，含 问题/debug-log.md>
 stage: 06
 ---

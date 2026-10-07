@@ -4,7 +4,7 @@ id: handoff.<项目名>
 name: <项目名> · 交接文档
 status: <active | iterating>
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <来源：总仓 PRD / 状态记录 / 计划与方案 合并>
 stage: <当前环节，如 05>
 ---

@@ -4,7 +4,7 @@ id: status.<项目名>
 name: <项目名> · 执行状态
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <依据：计划与方案 / 产品仓进度>
 stage: 04
 ---

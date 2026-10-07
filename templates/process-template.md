@@ -4,7 +4,7 @@ id: process.<项目名>.<环节>
 name: <项目名> · <环节> 过程记录
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <依据：讨论 / 推演来源>
 stage: <对应环节编号，如 02>
 ---

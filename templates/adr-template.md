@@ -4,7 +4,7 @@ id: adr.<项目名>.0001
 name: <一句话决策>
 status: accepted
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <触发场景 / 讨论来源>
 decided: <YYYY-MM-DD>
 supersedes: null

@@ -4,7 +4,7 @@ id: prd.<项目名>
 name: <项目名>
 status: <active|iterating|paused|done>
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <原件路径 / 上游文档>
 stage: 01
 ---

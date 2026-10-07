@@ -4,7 +4,7 @@ id: plan.<项目名>
 name: <项目名> · 计划与方案
 status: active
 updated: <YYYY-MM-DD>
-owner: A
+owner: <项目负责人>
 origin: <依据：PRD 章节 / 评审意见>
 stage: 02
 ---
